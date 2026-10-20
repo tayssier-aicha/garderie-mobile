@@ -13,26 +13,31 @@ class _HomePageState extends State<HomePage> {
 
   final List<Map<String, String>> activites = [
     {
+      'id': '1',
       'titre': 'Dessin',
       'description': 'Les enfants dessinent et colorient.',
       'emoji': '🎨',
     },
     {
+      'id': '2',
       'titre': 'Lecture',
       'description': 'Découverte de petites histoires.',
       'emoji': '📚',
     },
     {
+      'id': '3',
       'titre': 'Musique',
       'description': 'Chansons et jeux musicaux.',
       'emoji': '🎵',
     },
     {
+      'id': '4',
       'titre': 'Jeux éducatifs',
       'description': 'Apprendre en jouant ensemble.',
       'emoji': '🧩',
     },
     {
+      'id': '5',
       'titre': 'Activités sportives',
       'description': 'Bouger et s’amuser en groupe.',
       'emoji': '⚽',
